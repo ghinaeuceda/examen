@@ -1,0 +1,106 @@
+body{
+	font-size: Segoe UI;
+	font-size: 15px;
+	color: #777;
+}
+header{
+	position: relative;
+	background-color: #000;
+	width: 100%;
+	top:0;
+}
+#slides h1{
+	text-align: left;
+	font-family: "Montserrat Black";
+	text-transform: uppercase;
+	margin-bottom: 30px;
+	margin-right: 300px;
+	font-size: 60px;
+}
+#slides h4{
+	text-align: left;
+	font-family: 'Montserrat Thin';
+	text-transform:capitalize;
+	margin-bottom: 250px;
+	font-size: 20px;
+}
+#services p{
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	align-content: center;
+}
+#services{
+	padding: 5% 0 5% ;
+}
+#about{
+	align-content: center;
+	padding-top: 5%;
+	margin-right: 40px;
+}
+#about h2{
+	text-align: left;
+	font-size: 30px;
+	font-family: "Montserrat Thin";
+	font-weight: 700;
+}
+#about h3{
+	text-align: left;
+	font-size: 20px;
+	font-family: Raleway;
+	font-weight: 500;
+}
+#about p{
+	text-align: left;
+	font-size: 15px;
+}
+#foto{
+	padding: 20px;
+	align-content: center;
+}
+#doctors{
+	padding: 5% 0 0;
+}
+#doctors h1{
+	font-size: 20px;
+	text-align: center;
+	font-family: "Montserrat Thin";
+}
+#doctors p{
+	font-size: 15px;
+	text-align: center;
+	font-family: Raleway;
+}
+#doctors h3{
+	font-size: 20px;
+	text-align: center;
+	font-family: "Montserrat Thin";
+}
+#testimonios{
+	background-color: #f9f9f9;
+	padding: 5% 0 ;
+	align-content: center;
+}
+#testimonios p{
+	text-align: center;
+	font-family: Raleway;
+	font-size: 20px;
+	color: #000;
+}
+#testimonios h3{
+	font-family: "Montserrat";
+	font-size: 15px;
+	text-transform: uppercase;
+	text-align: center;
+}
+footer{
+	background-color: #111;
+	padding: 5% 0 0 5%;
+}
+footer h1{
+	text-transform: uppercase;
+	font-family: "Montserrat Thin";
+}
+footer p{ 
+font-size: 15px;
+}

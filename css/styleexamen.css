@@ -1,0 +1,14 @@
+body{
+	font-size: Segoe UI;
+	font-size: 15px;
+	color: #777;
+}
+header{
+	position: relative;
+	background-color: #000;
+	width: 100%;
+	top:0;
+}
+#primera{
+	background-image: url("")
+}
